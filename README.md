@@ -1,6 +1,6 @@
 # DIPT_Worksjop_3
-## Name: Vignesh R
-## Reg NO : 212223240177
+## Name: ESHWAR T
+## Reg NO : 212223230054
 
 # Program
 ```
